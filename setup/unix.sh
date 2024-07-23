@@ -4,7 +4,7 @@
 # https://haxe.org/download
 echo Installing dependencies...
 echo This might take a few moments depending on your internet speed.
-haxelib install lime 8.1.2
+haxelib install lime 8.0.2
 haxelib install flixel-addons 3.1.1
 haxelib install flixel 5.3.1
 haxelib install flixel-ui 2.5.0
